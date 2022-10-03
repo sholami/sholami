@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shola
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently updating my python and Sql skills
-- 💞️ I’m looking to collaborate on Data Engineer
+- 👋 Hi, I’m @Shola Afolabi
+- 👀 I am a Data Analyst/ScientistEngineering
+- 🌱 my python and Sql skills are at advanced levels
+- 💞️ I’m looking to collaborate on Data Engineer/ Data analytics problems
 - 📫 How to reach me ...
 
 <!---
